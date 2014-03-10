@@ -1,0 +1,836 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="9cc4ba94-c03e-4b37-af6d-27368a830643" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/css/font-awesome/fonts/FontAwesome.otf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/accordion-ico.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/revolutionslider/rs-plugin/assets/arrow_large_left.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/revolutionslider/rs-plugin/assets/arrow_large_right.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/revolutionslider/rs-plugin/assets/arrow_left.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/revolutionslider/rs-plugin/assets/arrow_left2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/revolutionslider/rs-plugin/assets/arrow_right.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/revolutionslider/rs-plugin/assets/arrow_right2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/revolutionslider/rs-plugin/assets/arrowleft.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/revolutionslider/rs-plugin/assets/arrowright.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/blog/avatar.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/elements/bg.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/revolutionslider/rs-plugin/assets/black50.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/portfolio/source/blank.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/elements/book.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/elements/bookmark.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/revolutionslider/rs-plugin/assets/boxed_bgtile.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/revolutionslider/rs-plugin/assets/bullet.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/revolutionslider/rs-plugin/assets/bullet_boxed.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/revolutionslider/rs-plugin/assets/bullets.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/revolutionslider/rs-plugin/assets/bullets2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/elements/calendar.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/elements/camera.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/elements/chat.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/elements/check.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/client-logo1.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/client-logo2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/client-logo3.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/client-logo4.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/client-logo5.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/client-logo6.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/client-logo7.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/elements/coffe_cup.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/elements/cogwheel.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/revolutionslider/rs-plugin/assets/coloredbg.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/style-switcher/colors-swi.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/elements/dark_mosaic.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/revolutionslider/rs-plugin/images/decor_inside.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/revolutionslider/rs-plugin/images/decor_inside_white.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/revolutionslider/rs-plugin/images/decor_testimonial.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/elements/download.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/elements/dropcap_gray.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/sliders/revolution/dummy.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/echeckwebsite.iml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/elements/edit.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/elements/envelope.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/elements/exclamation_mark.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/blog/facebook.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/portfolio/source/helpers/fancybox_buttons.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/portfolio/source/fancybox_loading.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/portfolio/source/fancybox_overlay.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/portfolio/source/fancybox_sprite.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/favicon.ico" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/elements/file.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/blog/flickr.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/elements/folder_open.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/css/font-awesome/fonts/fontawesome-webfont.eot" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/css/font-awesome/fonts/fontawesome-webfont.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/css/font-awesome/fonts/fontawesome-webfont.woff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/footer-bg.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/footer-logo.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/footer-wmap.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/revolutionslider/rs-plugin/images/gradient/g30.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/revolutionslider/rs-plugin/images/gradient/g40.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/elements/globe.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/blog/google-plus.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/revolutionslider/rs-plugin/assets/grain.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/graph-01.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/elements/graph-bg1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/graph-gray-03.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/graph-white-02.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/h-lines1.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/elements/hand_right.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/header-bg.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/elements/hospital.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/blog/icon-by-user.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/elements/icon-cart.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/blog/icon-category.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/elements/icon-chat.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/elements/icon-chevron-right.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/blog/icon-comments.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/elements/icon-heart.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/elements/icon-ok.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/elements/icon-play-button.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/elements/icon-remove.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/elements/icon-right-arrow.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/elements/icon-star.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/elements/icon-user.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/elements/info.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/revolutionslider/rs-plugin/assets/large_left.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/revolutionslider/rs-plugin/assets/large_right.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/blog/linkedin.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/revolutionslider/rs-plugin/assets/loader.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/revolutionslider/rs-plugin/assets/loader2.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/elements/lock.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/logo.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/menu-divider.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/elements/minus.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/elements/music.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/revolutionslider/rs-plugin/assets/navigdots.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/revolutionslider/rs-plugin/assets/navigdots_bgtile.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/elements/new_window.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/jcarousel/next-horizontal-three.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/jcarousel/next-horizontal-two.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/jcarousel/next-horizontal.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/elements/ok_2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/opacity-line.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/page-titlebg.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/elements/pattern-eight.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/elements/pattern-five.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/elements/pattern-four.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/elements/pattern-nine.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/elements/pattern-one.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/elements/pattern-seven.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/elements/pattern-six.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/elements/pattern-three.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/elements/pattern-two.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/elements/pattern1.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/elements/pattern10.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/elements/pattern11.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/elements/pattern12.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/elements/pattern13.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/elements/pattern14.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/elements/pattern15.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/elements/pattern16.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/elements/pattern17.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/elements/pattern18.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/elements/pattern19.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/elements/pattern2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/elements/pattern20.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/elements/pattern3.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/elements/pattern4.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/elements/pattern5.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/elements/pattern6.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/elements/pattern7.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/elements/pattern8.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/elements/pattern9.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/elements/pdf.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/elements/pencil.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/blog/people_img.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/elements/phone-icon.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/elements/phone.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/elements/play_button.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/elements/plus.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/jcarousel/prev-horizontal-three.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/jcarousel/prev-horizontal-two.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/jcarousel/prev-horizontal.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/project2.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/projects-bg.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/elements/question_mark.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/quote.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/assets/images/rails.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/elements/remove_2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/blog/rss.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/sample-ad-banner.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/scroll-top-arrow.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/elements/search.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/elements/settings.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/shadow01.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/revolutionslider/rs-plugin/assets/shadow1.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/revolutionslider/rs-plugin/assets/shadow2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/revolutionslider/rs-plugin/assets/shadow3.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/elements/shopping_cart.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/site-search-icon.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/siteimg-joosa1.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/elements/slash_it.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/revolutionslider/rs-plugin/assets/small_left.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/revolutionslider/rs-plugin/assets/small_left_boxed.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/revolutionslider/rs-plugin/assets/small_right.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/revolutionslider/rs-plugin/assets/small_right_boxed.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/spacer.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/elements/star.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/elements/table.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/elements/tag.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/testi-arrow.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/elements/thumbs_down.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/elements/thumbs_up.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/revolutionslider/rs-plugin/assets/timer.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/revolutionslider/rs-plugin/assets/timerdot.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/title-hline.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/elements/top-site-show.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/revolutionslider/rs-plugin/assets/transparent.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/sliders/revolution/transparent.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/blog/twitter.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/elements/user.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/sliders/revolution/videobg1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/sliders/revolution/videoshadow.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/blog/vimeo-logo.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/blog/vimeo.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/elements/warning_sign.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/waves-01.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/revolutionslider/rs-plugin/assets/white50.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/elements/wifi.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/elements/woman.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/elements/word_doc.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/blog/yahoo.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/blog/youtube-logo.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/blog/youtube.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.gitignore" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/mailers/.gitkeep" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/models/.gitkeep" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/assets/.gitkeep" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/tasks/.gitkeep" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/log/.gitkeep" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test/fixtures/.gitkeep" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test/functional/.gitkeep" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test/integration/.gitkeep" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test/unit/.gitkeep" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/assets/javascripts/.gitkeep" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/assets/stylesheets/.gitkeep" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/plugins/.gitkeep" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/404.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/422.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/500.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/dictionaries/Austin.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Gemfile.lock" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Gemfile" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/README.rdoc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/README_FOR_APP" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Rakefile" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/about-2.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/about.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/accordion/accordion.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/assets/stylesheets/application.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/views/layouts/application.html.erb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/assets/javascripts/application.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/config/application.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/controllers/application_controller.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/helpers/application_helper.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/config/initializers/backtrace_silencers.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/blog-2.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/blog-post.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/blog.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/config/boot.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test/performance/browsing_test.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/style-switcher/color-switcher.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/columns.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/config.ru" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/contact.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/sticky-menu/core.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/sticky-menu/core.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/accordion/custom.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/thumbszoom/custom.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/dataSources.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/config/database.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/mainmenu/ddsmoothmenu.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/config/environments/development.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/elements.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/config/locales/en.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/encodings.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/config/environment.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/faqs.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/css/font-awesome/css/font-awesome.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/css/font-awesome/css/font-awesome.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/css/font-awesome/fonts/fontawesome-webfont.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/full-width.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/config/initializers/inflections.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/portfolio/isotope.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/thumbszoom/jquery-1.3.1.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/jcarousel/jquery-1.4.2.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/mainmenu/jquery-1.7.1.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/portfolio/lib/jquery-1.9.0.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/style-switcher/jquery-1.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/portfolio/source/helpers/jquery.fancybox-buttons.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/portfolio/source/helpers/jquery.fancybox-buttons.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/portfolio/source/helpers/jquery.fancybox-media.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/portfolio/source/helpers/jquery.fancybox-thumbs.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/portfolio/source/helpers/jquery.fancybox-thumbs.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/portfolio/source/jquery.fancybox.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/portfolio/source/jquery.fancybox.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/portfolio/source/jquery.fancybox.pack.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/portfolio/jquery.isotope.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/jcarousel/jquery.jcarousel.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/universal/jquery.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/portfolio/lib/jquery.mousewheel-3.0.6.pack.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/mainmenu/jquery.smint.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/revolutionslider/rs-plugin/js/jquery.themepunch.plugins.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/revolutionslider/rs-plugin/js/jquery.themepunch.revolution.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/sticky-menu/jquery_004.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/left-nav.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/left-sidebar.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/config/initializers/mime_types.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/sticky-menu/modernizr.custom.75180.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/portfolio-five.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/portfolio-four.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/portfolio-one.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/portfolio-six.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/portfolio-three.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/portfolio-two.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/pricing-tables.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/config/environments/production.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/progressbar/progress.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/script/rails" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/css/reset.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/css/responsive-leyouts.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/right-nav.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/right-sidebar.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/robots.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/config/routes.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/scopes/scope_settings.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/mainmenu/scripts.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/config/initializers/secret_token.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/db/seeds.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/mainmenu/selectnav.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/services-2.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/services.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/config/initializers/session_store.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/revolutionslider/rs-plugin/css/settings.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/jcarousel/skin.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/jcarousel/skin2.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/jcarousel/skin3.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/revolutionslider/css/slider_main.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/css/style.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/style-switcher/styleselector.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/style-switcher/styleswitcher.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/tabs/tabs-style2.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/tabs/tabs-style2.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/tabs/tabs.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/tabs.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/tabs/tabs.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/tabs/tabwidget/tabwidget.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/tabs/tabwidget/tabwidget.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/config/environments/test.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test/test_helper.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/testimonials.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/thumbszoom/thumbzoom.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/typography.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/progressbar/ui.progress-bar.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/config/initializers/wrap_parameters.rb" />
+    </list>
+    <ignored path="echeckwebsite.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager" flattened_view="true" show_ignored="false" />
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/echeckwebsite@Development__echeckwebsite.coverage" NAME="Development: echeckwebsite Coverage Results" MODIFIED="1394421052601" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="echeckwebsite" />
+  </component>
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="DaemonCodeAnalyzer">
+    <disable_hints />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FavoritesManager">
+    <favorites_list name="echeckwebsite" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="index.html" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/public/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="312" column="44" selection-start="11661" selection-end="11661" vertical-scroll-proportion="-0.73590505" vertical-offset="4928" max-vertical-offset="8340">
+              <folding>
+                <element signature="n#style#0;n#div#0;n#li#0;n#ul#0;n#div#0;n#div#0;n#div#1;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#1;n#li#0;n#ul#0;n#div#0;n#div#0;n#div#1;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#2;n#li#0;n#ul#0;n#div#0;n#div#0;n#div#1;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#0;n#li#1;n#ul#0;n#div#0;n#div#0;n#div#1;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#1;n#li#1;n#ul#0;n#div#0;n#div#0;n#div#1;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#2;n#li#1;n#ul#0;n#div#0;n#div#0;n#div#1;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#3;n#li#1;n#ul#0;n#div#0;n#div#0;n#div#1;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#4;n#li#1;n#ul#0;n#div#0;n#div#0;n#div#1;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#6;n#li#1;n#ul#0;n#div#0;n#div#0;n#div#1;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="style.css" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/public/css/style.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="214" column="19" selection-start="3662" selection-end="3662" vertical-scroll-proportion="-6.6923075" vertical-offset="3036" max-vertical-offset="58890">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindManager">
+    <FindUsagesManager>
+      <setting name="OPEN_NEW_TAB" value="false" />
+    </FindUsagesManager>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="changedFiles">
+      <list>
+        <option value="$PROJECT_DIR$/public/css/style.css" />
+        <option value="$PROJECT_DIR$/public/index.html" />
+      </list>
+    </option>
+  </component>
+  <component name="LogFilters">
+    <option name="FILTER_ERRORS" value="false" />
+    <option name="FILTER_WARNINGS" value="false" />
+    <option name="FILTER_INFO" value="true" />
+    <option name="FILTER_DEBUG" value="true" />
+    <option name="CUSTOM_FILTER" />
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="-7" />
+    <option name="y" value="28" />
+    <option name="width" value="1434" />
+    <option name="height" value="826" />
+  </component>
+  <component name="ProjectInspectionProfilesVisibleTreeState">
+    <entry key="Project Default">
+      <profile-state>
+        <expanded-state>
+          <State>
+            <id />
+          </State>
+        </expanded-state>
+        <selected-state>
+          <State>
+            <id>CSS</id>
+          </State>
+        </selected-state>
+      </profile-state>
+    </entry>
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="false">
+    <OptionsSetting value="true" id="Add" />
+    <OptionsSetting value="true" id="Remove" />
+    <OptionsSetting value="true" id="Checkout" />
+    <OptionsSetting value="true" id="Update" />
+    <OptionsSetting value="true" id="Status" />
+    <OptionsSetting value="true" id="Edit" />
+    <ConfirmationsSetting value="0" id="Add" />
+    <ConfirmationsSetting value="0" id="Remove" />
+  </component>
+  <component name="ProjectReloadState">
+    <option name="STATE" value="0" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1" splitterProportion="0.5">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+    </navigator>
+    <panes>
+      <pane id="RailsProjectView">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="echeckwebsite" />
+              <option name="myItemType" value="org.jetbrains.plugins.ruby.rails.projectView.v2.nodes.RailsProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="echeckwebsite" />
+              <option name="myItemType" value="org.jetbrains.plugins.ruby.rails.projectView.v2.nodes.RailsModuleNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="echeckwebsite" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="echeckwebsite" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="echeckwebsite" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="echeckwebsite" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="echeckwebsite" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="public" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="echeckwebsite" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="echeckwebsite" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="public" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="css" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="options.splitter.main.proportions" value="0.3" />
+    <property name="options.lastSelected" value="reference.idesettings.debugger.javascript" />
+    <property name="options.searchVisible" value="true" />
+    <property name="options.splitter.details.proportions" value="0.2" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="recentsLimit" value="5" />
+  </component>
+  <component name="RunManager" selected="Rails.Development: echeckwebsite">
+    <configuration default="true" type="RakeRunConfigurationType" factoryName="Rake">
+      <module name="" />
+      <RAKE_RUN_CONFIG_SETTINGS_ID NAME="RUBY_ARGS" VALUE="-e $stdout.sync=true;$stderr.sync=true;load($0=ARGV.shift)" />
+      <RAKE_RUN_CONFIG_SETTINGS_ID NAME="WORK DIR" VALUE="" />
+      <RAKE_RUN_CONFIG_SETTINGS_ID NAME="SHOULD_USE_SDK" VALUE="false" />
+      <RAKE_RUN_CONFIG_SETTINGS_ID NAME="ALTERN_SDK_NAME" VALUE="" />
+      <RAKE_RUN_CONFIG_SETTINGS_ID NAME="myPassParentEnvs" VALUE="true" />
+      <envs />
+      <EXTENSION ID="BundlerRunConfigurationExtension" bundleExecEnabled="false" />
+      <EXTENSION ID="JRubyRunConfigurationExtension" NailgunExecEnabled="false" />
+      <EXTENSION ID="RubyCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" track_test_folders="true" runner="rcov">
+        <COVERAGE_PATTERN ENABLED="true">
+          <PATTERN REGEXPS="/.rvm/" INCLUDED="false" />
+        </COVERAGE_PATTERN>
+      </EXTENSION>
+      <EXTENSION ID="org.jetbrains.plugins.ruby.motion.run.MotionSimulatorRunExtension" />
+      <RAKE_RUN_CONFIG_SETTINGS_ID NAME="RAKE_TASK_NAME" VALUE="" />
+      <RAKE_RUN_CONFIG_SETTINGS_ID NAME="RAKE_TASK_ARGS" VALUE="" />
+      <RAKE_RUN_CONFIG_SETTINGS_ID NAME="RAKE_TASK_ATTACHED_TEST_FRAMEWORKS" VALUE="" />
+      <RAKE_RUN_CONFIG_SETTINGS_ID NAME="RAKE_TASK_OPTION_TRACE" VALUE="false" />
+      <RAKE_RUN_CONFIG_SETTINGS_ID NAME="RAKE_TASK_OPTION_DRYRUN" VALUE="false" />
+      <RAKE_RUN_CONFIG_SETTINGS_ID NAME="RAKE_TASK_OPTION_PREREQS" VALUE="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="RailsRunConfigurationType" factoryName="Rails">
+      <predefined_log_file id="RUBY_RAILS_SERVER" enabled="true" />
+      <module name="" />
+      <RAILS_SERVER_CONFIG_SETTINGS_ID NAME="RUBY_ARGS" VALUE="-e $stdout.sync=true;$stderr.sync=true;load($0=ARGV.shift)" />
+      <RAILS_SERVER_CONFIG_SETTINGS_ID NAME="WORK DIR" VALUE="$MODULE_DIR$" />
+      <RAILS_SERVER_CONFIG_SETTINGS_ID NAME="SHOULD_USE_SDK" VALUE="false" />
+      <RAILS_SERVER_CONFIG_SETTINGS_ID NAME="ALTERN_SDK_NAME" VALUE="" />
+      <RAILS_SERVER_CONFIG_SETTINGS_ID NAME="myPassParentEnvs" VALUE="true" />
+      <envs />
+      <EXTENSION ID="BundlerRunConfigurationExtension" bundleExecEnabled="false" />
+      <EXTENSION ID="JRubyRunConfigurationExtension" NailgunExecEnabled="false" />
+      <EXTENSION ID="RubyCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" track_test_folders="true" runner="rcov">
+        <COVERAGE_PATTERN ENABLED="true">
+          <PATTERN REGEXPS="/.rvm/" INCLUDED="false" />
+        </COVERAGE_PATTERN>
+      </EXTENSION>
+      <EXTENSION ID="org.jetbrains.plugins.ruby.motion.run.MotionSimulatorRunExtension" />
+      <RAILS_SERVER_CONFIG_SETTINGS_ID NAME="SCRIPT_ARGS" VALUE="" />
+      <RAILS_SERVER_CONFIG_SETTINGS_ID NAME="PORT" VALUE="3000" />
+      <RAILS_SERVER_CONFIG_SETTINGS_ID NAME="IP" VALUE="0.0.0.0" />
+      <RAILS_SERVER_CONFIG_SETTINGS_ID NAME="DUMMY_APP" VALUE="test/dummy" />
+      <RAILS_SERVER_CONFIG_SETTINGS_ID NAME="RAILS_SERVER_TYPE" VALUE="Default" />
+      <RAILS_SERVER_CONFIG_SETTINGS_ID NAME="ENVIRONMENT_TYPE" VALUE="development" />
+      <RAILS_SERVER_CONFIG_SETTINGS_ID NAME="LAUNCH_JS" VALUE="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug" singleton="true">
+      <method />
+    </configuration>
+    <configuration default="false" name="test: echeckwebsite" type="RakeRunConfigurationType" factoryName="Rake">
+      <module name="echeckwebsite" />
+      <RAKE_RUN_CONFIG_SETTINGS_ID NAME="RUBY_ARGS" VALUE="-e $stdout.sync=true;$stderr.sync=true;load($0=ARGV.shift)" />
+      <RAKE_RUN_CONFIG_SETTINGS_ID NAME="WORK DIR" VALUE="$MODULE_DIR$" />
+      <RAKE_RUN_CONFIG_SETTINGS_ID NAME="SHOULD_USE_SDK" VALUE="false" />
+      <RAKE_RUN_CONFIG_SETTINGS_ID NAME="ALTERN_SDK_NAME" VALUE="" />
+      <RAKE_RUN_CONFIG_SETTINGS_ID NAME="myPassParentEnvs" VALUE="true" />
+      <envs>
+        <env name="RAILS_ENV" value="test" />
+      </envs>
+      <EXTENSION ID="BundlerRunConfigurationExtension" bundleExecEnabled="false" />
+      <EXTENSION ID="JRubyRunConfigurationExtension" NailgunExecEnabled="false" />
+      <EXTENSION ID="RubyCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" track_test_folders="true" runner="rcov">
+        <COVERAGE_PATTERN ENABLED="true">
+          <PATTERN REGEXPS="/.rvm/" INCLUDED="false" />
+        </COVERAGE_PATTERN>
+      </EXTENSION>
+      <EXTENSION ID="org.jetbrains.plugins.ruby.motion.run.MotionSimulatorRunExtension" />
+      <RAKE_RUN_CONFIG_SETTINGS_ID NAME="RAKE_TASK_NAME" VALUE="test" />
+      <RAKE_RUN_CONFIG_SETTINGS_ID NAME="RAKE_TASK_ARGS" VALUE="" />
+      <RAKE_RUN_CONFIG_SETTINGS_ID NAME="RAKE_TASK_ATTACHED_TEST_FRAMEWORKS" VALUE=":test_unit " />
+      <RAKE_RUN_CONFIG_SETTINGS_ID NAME="RAKE_TASK_OPTION_TRACE" VALUE="false" />
+      <RAKE_RUN_CONFIG_SETTINGS_ID NAME="RAKE_TASK_OPTION_DRYRUN" VALUE="false" />
+      <RAKE_RUN_CONFIG_SETTINGS_ID NAME="RAKE_TASK_OPTION_PREREQS" VALUE="false" />
+      <method />
+    </configuration>
+    <configuration default="false" name="spec: echeckwebsite" type="RakeRunConfigurationType" factoryName="Rake">
+      <module name="echeckwebsite" />
+      <RAKE_RUN_CONFIG_SETTINGS_ID NAME="RUBY_ARGS" VALUE="-e $stdout.sync=true;$stderr.sync=true;load($0=ARGV.shift)" />
+      <RAKE_RUN_CONFIG_SETTINGS_ID NAME="WORK DIR" VALUE="$MODULE_DIR$" />
+      <RAKE_RUN_CONFIG_SETTINGS_ID NAME="SHOULD_USE_SDK" VALUE="false" />
+      <RAKE_RUN_CONFIG_SETTINGS_ID NAME="ALTERN_SDK_NAME" VALUE="" />
+      <RAKE_RUN_CONFIG_SETTINGS_ID NAME="myPassParentEnvs" VALUE="true" />
+      <envs />
+      <EXTENSION ID="BundlerRunConfigurationExtension" bundleExecEnabled="false" />
+      <EXTENSION ID="JRubyRunConfigurationExtension" NailgunExecEnabled="false" />
+      <EXTENSION ID="RubyCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" track_test_folders="true" runner="rcov">
+        <COVERAGE_PATTERN ENABLED="true">
+          <PATTERN REGEXPS="/.rvm/" INCLUDED="false" />
+        </COVERAGE_PATTERN>
+      </EXTENSION>
+      <EXTENSION ID="org.jetbrains.plugins.ruby.motion.run.MotionSimulatorRunExtension" />
+      <RAKE_RUN_CONFIG_SETTINGS_ID NAME="RAKE_TASK_NAME" VALUE="spec" />
+      <RAKE_RUN_CONFIG_SETTINGS_ID NAME="RAKE_TASK_ARGS" VALUE="" />
+      <RAKE_RUN_CONFIG_SETTINGS_ID NAME="RAKE_TASK_ATTACHED_TEST_FRAMEWORKS" VALUE=":rspec " />
+      <RAKE_RUN_CONFIG_SETTINGS_ID NAME="RAKE_TASK_OPTION_TRACE" VALUE="false" />
+      <RAKE_RUN_CONFIG_SETTINGS_ID NAME="RAKE_TASK_OPTION_DRYRUN" VALUE="false" />
+      <RAKE_RUN_CONFIG_SETTINGS_ID NAME="RAKE_TASK_OPTION_PREREQS" VALUE="false" />
+      <method />
+    </configuration>
+    <configuration default="false" name="Production: echeckwebsite" type="RailsRunConfigurationType" factoryName="Rails">
+      <predefined_log_file id="RUBY_RAILS_SERVER" enabled="true" />
+      <module name="echeckwebsite" />
+      <RAILS_SERVER_CONFIG_SETTINGS_ID NAME="RUBY_ARGS" VALUE="-e $stdout.sync=true;$stderr.sync=true;load($0=ARGV.shift)" />
+      <RAILS_SERVER_CONFIG_SETTINGS_ID NAME="WORK DIR" VALUE="$MODULE_DIR$" />
+      <RAILS_SERVER_CONFIG_SETTINGS_ID NAME="SHOULD_USE_SDK" VALUE="false" />
+      <RAILS_SERVER_CONFIG_SETTINGS_ID NAME="ALTERN_SDK_NAME" VALUE="" />
+      <RAILS_SERVER_CONFIG_SETTINGS_ID NAME="myPassParentEnvs" VALUE="true" />
+      <envs />
+      <EXTENSION ID="BundlerRunConfigurationExtension" bundleExecEnabled="false" />
+      <EXTENSION ID="JRubyRunConfigurationExtension" NailgunExecEnabled="false" />
+      <EXTENSION ID="RubyCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" track_test_folders="true" runner="rcov">
+        <COVERAGE_PATTERN ENABLED="true">
+          <PATTERN REGEXPS="/.rvm/" INCLUDED="false" />
+        </COVERAGE_PATTERN>
+      </EXTENSION>
+      <EXTENSION ID="org.jetbrains.plugins.ruby.motion.run.MotionSimulatorRunExtension" />
+      <RAILS_SERVER_CONFIG_SETTINGS_ID NAME="SCRIPT_ARGS" VALUE="" />
+      <RAILS_SERVER_CONFIG_SETTINGS_ID NAME="PORT" VALUE="3000" />
+      <RAILS_SERVER_CONFIG_SETTINGS_ID NAME="IP" VALUE="0.0.0.0" />
+      <RAILS_SERVER_CONFIG_SETTINGS_ID NAME="DUMMY_APP" VALUE="test/dummy" />
+      <RAILS_SERVER_CONFIG_SETTINGS_ID NAME="RAILS_SERVER_TYPE" VALUE="Default" />
+      <RAILS_SERVER_CONFIG_SETTINGS_ID NAME="ENVIRONMENT_TYPE" VALUE="production" />
+      <RAILS_SERVER_CONFIG_SETTINGS_ID NAME="LAUNCH_JS" VALUE="false" />
+      <method />
+    </configuration>
+    <configuration default="false" name="Development: echeckwebsite" type="RailsRunConfigurationType" factoryName="Rails">
+      <predefined_log_file id="RUBY_RAILS_SERVER" enabled="true" />
+      <module name="echeckwebsite" />
+      <RAILS_SERVER_CONFIG_SETTINGS_ID NAME="RUBY_ARGS" VALUE="-e $stdout.sync=true;$stderr.sync=true;load($0=ARGV.shift)" />
+      <RAILS_SERVER_CONFIG_SETTINGS_ID NAME="WORK DIR" VALUE="$MODULE_DIR$" />
+      <RAILS_SERVER_CONFIG_SETTINGS_ID NAME="SHOULD_USE_SDK" VALUE="false" />
+      <RAILS_SERVER_CONFIG_SETTINGS_ID NAME="ALTERN_SDK_NAME" VALUE="" />
+      <RAILS_SERVER_CONFIG_SETTINGS_ID NAME="myPassParentEnvs" VALUE="true" />
+      <envs />
+      <EXTENSION ID="BundlerRunConfigurationExtension" bundleExecEnabled="false" />
+      <EXTENSION ID="JRubyRunConfigurationExtension" NailgunExecEnabled="false" />
+      <EXTENSION ID="RubyCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" track_test_folders="true" runner="rcov">
+        <COVERAGE_PATTERN ENABLED="true">
+          <PATTERN REGEXPS="/.rvm/" INCLUDED="false" />
+        </COVERAGE_PATTERN>
+      </EXTENSION>
+      <EXTENSION ID="org.jetbrains.plugins.ruby.motion.run.MotionSimulatorRunExtension" />
+      <RAILS_SERVER_CONFIG_SETTINGS_ID NAME="SCRIPT_ARGS" VALUE="" />
+      <RAILS_SERVER_CONFIG_SETTINGS_ID NAME="PORT" VALUE="3000" />
+      <RAILS_SERVER_CONFIG_SETTINGS_ID NAME="IP" VALUE="0.0.0.0" />
+      <RAILS_SERVER_CONFIG_SETTINGS_ID NAME="DUMMY_APP" VALUE="test/dummy" />
+      <RAILS_SERVER_CONFIG_SETTINGS_ID NAME="RAILS_SERVER_TYPE" VALUE="Default" />
+      <RAILS_SERVER_CONFIG_SETTINGS_ID NAME="ENVIRONMENT_TYPE" VALUE="development" />
+      <RAILS_SERVER_CONFIG_SETTINGS_ID NAME="LAUNCH_JS" VALUE="false" />
+      <RunnerSettings RunnerId="RubyDebugRunner" />
+      <ConfigurationWrapper RunnerId="RubyDebugRunner" />
+      <method />
+    </configuration>
+    <list size="4">
+      <item index="0" class="java.lang.String" itemvalue="Rake.test: echeckwebsite" />
+      <item index="1" class="java.lang.String" itemvalue="Rake.spec: echeckwebsite" />
+      <item index="2" class="java.lang.String" itemvalue="Rails.Production: echeckwebsite" />
+      <item index="3" class="java.lang.String" itemvalue="Rails.Development: echeckwebsite" />
+    </list>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false" />
+  <component name="SvnConfiguration" maxAnnotateRevisions="500" myUseAcceleration="nothing" myAutoUpdateAfterCommit="false" cleanupOnStartRun="false" SSL_PROTOCOLS="sslv3">
+    <option name="USER" value="" />
+    <option name="PASSWORD" value="" />
+    <option name="mySSHConnectionTimeout" value="30000" />
+    <option name="mySSHReadTimeout" value="30000" />
+    <option name="LAST_MERGED_REVISION" />
+    <option name="MERGE_DRY_RUN" value="false" />
+    <option name="MERGE_DIFF_USE_ANCESTRY" value="true" />
+    <option name="UPDATE_LOCK_ON_DEMAND" value="false" />
+    <option name="IGNORE_SPACES_IN_MERGE" value="false" />
+    <option name="CHECK_NESTED_FOR_QUICK_MERGE" value="false" />
+    <option name="IGNORE_SPACES_IN_ANNOTATE" value="true" />
+    <option name="SHOW_MERGE_SOURCES_IN_ANNOTATE" value="true" />
+    <option name="FORCE_UPDATE" value="false" />
+    <option name="IGNORE_EXTERNALS" value="false" />
+    <myIsUseDefaultProxy>false</myIsUseDefaultProxy>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9cc4ba94-c03e-4b37-af6d-27368a830643" name="Default" comment="" />
+      <created>1394420646190</created>
+      <updated>1394420646190</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="TodoView" selected-index="0">
+    <todo-panel id="selected-file">
+      <are-packages-shown value="false" />
+      <are-modules-shown value="false" />
+      <flatten-packages value="false" />
+      <is-autoscroll-to-source value="false" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="false" />
+      <are-modules-shown value="false" />
+      <flatten-packages value="false" />
+      <is-autoscroll-to-source value="false" />
+    </todo-panel>
+    <todo-panel id="default-changelist">
+      <are-packages-shown value="false" />
+      <are-modules-shown value="false" />
+      <flatten-packages value="false" />
+      <is-autoscroll-to-source value="false" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-7" y="28" width="1434" height="826" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32894737" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32894737" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32894737" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="Vcs.Log.UiProperties">
+    <option name="RECENTLY_FILTERED_USER_GROUPS">
+      <collection />
+    </option>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="true" />
+    <option name="myTodoPanelSettings">
+      <TodoPanelSettings />
+    </option>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/public/css/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="214" column="19" selection-start="3662" selection-end="3662" vertical-scroll-proportion="-6.6923075" vertical-offset="3036" max-vertical-offset="58890">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="312" column="44" selection-start="11661" selection-end="11661" vertical-scroll-proportion="-0.73590505" vertical-offset="4928" max-vertical-offset="8340">
+          <folding>
+            <element signature="n#style#0;n#div#0;n#li#0;n#ul#0;n#div#0;n#div#0;n#div#1;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#1;n#li#0;n#ul#0;n#div#0;n#div#0;n#div#1;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#2;n#li#0;n#ul#0;n#div#0;n#div#0;n#div#1;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#li#1;n#ul#0;n#div#0;n#div#0;n#div#1;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#1;n#li#1;n#ul#0;n#div#0;n#div#0;n#div#1;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#2;n#li#1;n#ul#0;n#div#0;n#div#0;n#div#1;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#3;n#li#1;n#ul#0;n#div#0;n#div#0;n#div#1;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#4;n#li#1;n#ul#0;n#div#0;n#div#0;n#div#1;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#6;n#li#1;n#ul#0;n#div#0;n#div#0;n#div#1;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ScopeChooserConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
+
