@@ -2,31 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9cc4ba94-c03e-4b37-af6d-27368a830643" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/about-2.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/contact.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/faqs.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/portfolio-five.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/portfolio-four.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/portfolio-one.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/portfolio-six.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/portfolio-three.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/portfolio-two.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/pricing-tables.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/services-2.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/services.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/tabs.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/testimonials.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/typography.html" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/images/sliders/image1.png" afterPath="$PROJECT_DIR$/public/images/sliders/image1.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/images/sliders/image11.png" afterPath="$PROJECT_DIR$/public/images/sliders/image11.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/images/sliders/image2.png" afterPath="$PROJECT_DIR$/public/images/sliders/image2.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/images/sliders/image21.png" afterPath="$PROJECT_DIR$/public/images/sliders/image21.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/images/sliders/image3.png" afterPath="$PROJECT_DIR$/public/images/sliders/image3.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/about.html" afterPath="$PROJECT_DIR$/public/about.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/index.html" afterPath="$PROJECT_DIR$/public/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/robots.txt" afterPath="$PROJECT_DIR$/public/robots.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/css/style.css" afterPath="$PROJECT_DIR$/public/css/style.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="echeckwebsite.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -55,7 +31,7 @@
       <file leaf-file-name="index.html" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/public/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="98" column="68" selection-start="3381" selection-end="3381" vertical-scroll-proportion="0.31675676" vertical-offset="1177" max-vertical-offset="8370">
+            <state line="339" column="63" selection-start="12212" selection-end="12212" vertical-scroll-proportion="0.8032432" vertical-offset="4342" max-vertical-offset="8370">
               <folding>
                 <element signature="n#style#0;n#div#0;n#li#0;n#ul#0;n#div#0;n#div#0;n#div#1;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#div#1;n#li#0;n#ul#0;n#div#0;n#div#0;n#div#1;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
@@ -824,7 +800,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/public/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="98" column="68" selection-start="3381" selection-end="3381" vertical-scroll-proportion="0.31675676" vertical-offset="1177" max-vertical-offset="8370">
+        <state line="339" column="63" selection-start="12212" selection-end="12212" vertical-scroll-proportion="0.8032432" vertical-offset="4342" max-vertical-offset="8370">
           <folding>
             <element signature="n#style#0;n#div#0;n#li#0;n#ul#0;n#div#0;n#div#0;n#div#1;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#div#1;n#li#0;n#ul#0;n#div#0;n#div#0;n#div#1;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
