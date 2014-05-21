@@ -9,7 +9,8 @@
 	width:100%;
 	height:80px;
 	text-indent:-999em;
-	background:url(../images/logo.png) no-repeat 20px 21px;
+    margin-bottom: 5px;
+	background:url(../images/logo_1.png) no-repeat 20px 21px;
 }
 .logo_main {
 	float: left;
