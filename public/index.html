@@ -46,7 +46,10 @@
     
     <!-- jquery jcarousel -->
     <link rel="stylesheet" type="text/css" href="js/jcarousel/skin2.css" />
-    
+
+    <!-- dialog -->
+    <link rel="stylesheet" type= "text/css" href="css/basic.css"/>
+
 </head>
 
 <body>
@@ -333,9 +336,11 @@
         <div class="one_half">
             <h2>for <strong>Consumers</strong></h2>
             <br/><br/>
-             <p>
-                 <img src="images/for_con.png" alt="" style="width: 100%; height: 100%"/>
-             </p>
+            <div id='basic-modal'>
+                <p>
+                    <a href='#' class='basic'><img src="images/for_con.png" style="width: 100%; height: 100%"/></a>
+                </p>
+            </div>
             <br/><br/>
 
         </div><!-- end new section -->
@@ -345,9 +350,11 @@
             <h2>for <strong>Brands</strong></h2>
 
             <br/><br/>
-            <p>
-                <img src="images/for_bra.png" alt="" style="width: 100%; height: 100%"/>
-            </p>
+            <div id='basic-modal1'>
+                <p>
+                    <a href='#' class='basic'> <img src="images/for_bra.png" style="width: 100%; height: 100%"/> </a>
+                </p>
+            </div>
             <br/><br/>
         </div><!-- end people says section -->
 
@@ -398,9 +405,114 @@
 
     
 <!-- ######### JS FILES ######### -->
+<!-- modal content -->
+<div id="basic-modal-content">
+    <h3><emphasis>for Consumers</emphasis></h3>
+    With the proliferation of counterfeit goods and ingestible products worldwide, consumers
+
+    need a real-time system to verify the authenticity, source, expiration date, allergens, or
+
+    recall status of products. Legacy methods of assuring product authenticity, like affixing
+
+    holographic stickers to product packaging, are unreliable and easily forged. In addition,
+
+    current packaging is static and does not provide real-time status, information, or marketing
+
+    messages relevant to a product at the time of consumption. For instance, the real-time
+
+    recall status of a particular unit of ingestible product is of interest to a consumer who
+
+    wants to avoid potential illness.
+
+    <br/><br/>
+
+    eCheckID’s real-time system provides an integrated application for product information
+
+    and authenticity, promotional offers, recall status, social interaction, and a direct conduit
+
+    to the manufacturer. Each product is marked with a unique identifying label, and a
+
+    simple scan of this label with a mobile device provides the consumer current information.
+
+    Following, or registering, a product is as easy as clicking a button and will provide the
+
+    consumer with recalls and other relevant promotions or marketing messages that can be
+
+    pushed to user’s mobile devices by the manufacturer in real-time.
+    <br/><br/>
+
+    Consumers can take advantage of promotional offers (if any) including loyalty program,
+
+    rebate, discount for complementary products, or lottery.
+
+    The eCheckID app is also integrated with social networks like Facebook and Twitter. This
+
+    allows consumers to interact with their social networks and comment about the product.
+
+    All these services are provided in a real-time, seamless manner with no need to fill out web
+
+    or paper forms.
+    <br/>
+</div>
+
+<div id="basic-modal1-content">
+    <h3><emphasis>for Brands</emphasis></h3>
+    eCheckID provides an easy-to-deploy service for brands to improve their brand equity
+
+    by making their products harder to counterfeit and giving them a conduit for real-time
+
+    consumer interaction. Critical product safety information, cross-sell, up-sell or discount
+
+    offers can be sent directly to targeted consumers. Loyalty and rebate programs can also
+
+    be implemented using the eCheckID app. Brand owners can obtain critical usage and
+
+    registration information about the consumers, as well as analytics about the efficacy
+
+    of promotional offers, location and density of counterfeit products, or the diversion of
+
+    products from authorized channel of distribution. <br/><br/>
+
+    These services are enabled through eCheckID’s cloud service and individualized product
+
+    tracking using a unique label created from an encrypted digital signature that cannot be
+
+    duplicated by counterfeiters. Once scanned by the eCheckID app on the consumers’ mobile
+
+    device, the barcode is translated and decrypted by the eCheckID cloud service. In response,
+
+    product authenticity and other information related to the unit of product are sent to the
+
+    consumers’ mobile device. If the consumer chooses to register their ownership of the
+
+    product, key registration information will be recorded in eCheckid’s central cloud service.
+
+    eCheckID also analyzes data collected to deliver actionable information about the pattern
+
+    and location of consumption, location and density of counterfeit products, and diversion of
+
+    products from legitimate channels. <br/><br/>
+
+    The eCheckID solution is delivered as a cloud-service so it is very easy to deploy. In
+
+    addition, the eCheckID barcode that uniquely identifies each unit of product can be
+
+    designed with embedded logo and color scheme that enhances the brand identity of the
+
+    product.
+    <br/>
+</div>
+
+<!-- preload the images -->
+<div style='display:none'>
+    <img src='images/x.png' alt='' />
+</div>
+
 
 <!-- get jQuery from the google apis -->
 <script type="text/javascript" src="js/universal/jquery.js"></script>
+<script type="text/javascript" src="js/dialog/jquery.simplemodal-1.4.4.js"></script>
+<script type="text/javascript" src="js/dialog/basic.js"></script>
 
 <!-- style switcher -->
 <script src="js/style-switcher/jquery-1.js"></script>
@@ -436,7 +548,7 @@
             $("html, body").animate({ scrollTop: 0 }, 500);
             return false;
         });
- 
+
     });
 </script>
 
@@ -462,6 +574,7 @@
 	});	//ready
 
 </script>
+
 
 <script type="text/javascript" src="js/sticky-menu/core.js"></script>
 <script type="text/javascript" src="js/sticky-menu/modernizr.custom.75180.js"></script>
