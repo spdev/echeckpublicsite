@@ -8,11 +8,11 @@
 	display:block;
 	/*width:100%;  */
     width: 250px;
-	height:90px;
+	height:97px;
 	text-indent:-999em;
     margin-bottom: -6px;
     margin-top: 5px;
-	background:url(../images/logo_1.png) no-repeat 0px -12px;
+	background:url(../images/logo_2.png) no-repeat 0px -8px;
 }
 .logo_main {
 	float: left;
@@ -137,7 +137,8 @@
 	margin: 0;
 	padding: 32px 16px 32px 18px;
 	text-align: center;
-    margin-top:5px;
+    margin-top:0px;
+    margin-bottom: 0px;
 }
 #access .menu ul li a:hover {
 	color: #fff;
