@@ -301,24 +301,14 @@
 <div class="clearfix"></div>
 
 <div class="joosa punch_text01">
-    <div class="container" style="text-align: center !important;">
-        <a href="" class="pur_link"><i class="fa fa-arrow-down"></i>&nbsp; See Demo</a>
+    <div class="container" id="basic-modal">
+        <a href="" class="pur_link basic"><i class="fa fa-location-arrow"></i>&nbsp; 查看演示</a>
 
     </div>
 </div><!-- end punch text section -->
 
 <div class="carve_graph_02"></div>
 
-<div class="joosa bottom_section">
-    <div class="container">
-
-        <div class="full" style="text-align: center !important">
-            <iframe width="680" height="370" src="http://player.youku.com/player.php/sid/XNzczNDc0ODUy/v.swf" frameborder="0" allowfullscreen type="application/x-shockwave-flash"></iframe>
-
-        </div>
-        <div class="clearfix mar_top10"></div>
-        </div>
-</div>
 
 <div class="joosa bottom_section">
     <div class="container" style="font-family: NotoSansTraditional; !important">
@@ -329,7 +319,7 @@
 
                 <!-- section 1 -->
 
-                <span class="" title="click header to collapse; image to expand"><h2><strong>消费者</strong></h2></span>
+                <span class="" title=""><h2><strong>消费者</strong></h2></span>
                 <div class="">
                     <div class="content"></div>
                     <span class="acc-trigger" style="width: 100%"></span>
@@ -380,7 +370,7 @@
                     <span class="acc-trigger1" style="width: 100%"></span>
                 </div>
 
-                <span class=""><img src="../images/for_bra_ch.png" style="width: 100%;" title="click image to expand; header to collapse"></span>
+                <span class=""><img src="../images/for_bra_ch.png" style="width: 100%;" title=""></span>
                 <div class="">
                     <div class="content">
                         <img src="../images/h-lines1.png" width="100%  " alt=""/>
@@ -451,10 +441,22 @@
 
 <!-- ######### JS FILES ######### -->
 
+<!-- modal content -->
+<div id="basic-modal-content" style="text-align: center !important">
+    <iframe width="100%" class="myIframe" src="http://player.youku.com/player.php/sid/XNzczNDc0ODUy/v.swf" frameborder="0" allowfullscreen type="application/x-shockwave-flash"></iframe>
+</div>
+
 <!-- get jQuery -->
 <script type="text/javascript" src="../js/universal/jquery.js"></script>
 <script type="text/javascript" src="../js/dialog/jquery.simplemodal-1.4.4.js"></script>
 <script type="text/javascript" src="../js/dialog/basic.js"></script>
+
+<!-- quick  setup for embedded video-->
+<script type="text/javascript" language="javascript">
+    $("#basic-modal-content").css('width', $(window).innerWidth()/1.8 + 'px');
+    $("#basic-modal-content").css('height', $(window).innerHeight()/2 + 'px');
+    $('.myIframe').css('height', $("#basic-modal-content").innerHeight()+'px');
+</script>
 
 <!-- style switcher -->
 <script src="../js/style-switcher/jquery-1.js"></script>

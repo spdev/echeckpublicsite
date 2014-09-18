@@ -300,8 +300,8 @@
 <div class="clearfix"></div>
 
 <div class="joosa punch_text01">
-	<div class="container" style="text-align: center !important;">
-        <a href="" class="pur_link"><i class="fa fa-arrow-down"></i>&nbsp; See Demo</a>
+	<div class="container" id="basic-modal">
+        <a href="" class="pur_link basic"><i class="fa fa-location-arrow"></i>&nbsp; See Demo</a>
            
     </div>
 </div><!-- end punch text section -->
@@ -311,20 +311,13 @@
 <div class="joosa bottom_section">
     <div class="container">
 
-        <div class="full" style="text-align: center !important">
-                <iframe width="680" height="370" src="//www.youtube.com/embed/NNg-VaTywbU?rel=0" frameborder="0" allowfullscreen></iframe>
-
-        </div>
-        <div class="clearfix mar_top10"></div>
-
-
         <div class="one_half">
 
             <div class="accordion">
 
                 <!-- section 1 -->
 
-                <span class="" title="click header to collapse; image to expand"><h2>for <strong>Consumers</strong></h2></span>
+                <span class="" title=""><h2>for <strong>Consumers</strong></h2></span>
                 <div class="">
                     <div class="content"></div>
                     <span class="acc-trigger" style="width: 100%"></span>
@@ -371,7 +364,7 @@
 
                 <!-- section 1 -->
 
-                <span class="" title="click header to collapse; image to expand"><h2>for <strong>Brands</strong></h2></span>
+                <span class="" title=""><h2>for <strong>Brands</strong></h2></span>
                 <div class="">
                     <div class="content"></div>
                     <span class="acc-trigger1" style="width: 100%"></span>
@@ -488,10 +481,23 @@
     
 <!-- ######### JS FILES ######### -->
 
+<!-- modal content -->
+<div id="basic-modal-content" style="text-align: center !important">
+    <iframe width="100%" class="myIframe" src="//www.youtube.com/embed/NNg-VaTywbU?rel=0" frameborder="0" allowfullscreen></iframe>
+</div>
+
+
 <!-- get jQuery -->
 <script type="text/javascript" src="js/universal/jquery.js"></script>
 <script type="text/javascript" src="js/dialog/jquery.simplemodal-1.4.4.js"></script>
 <script type="text/javascript" src="js/dialog/basic.js"></script>
+
+<!-- quick  setup for embedded video-->
+<script type="text/javascript" language="javascript">
+    $("#basic-modal-content").css('width', $(window).innerWidth()/1.8 + 'px');
+    $("#basic-modal-content").css('height', $(window).innerHeight()/2 + 'px');
+    $('.myIframe').css('height', $("#basic-modal-content").innerHeight()+'px');
+</script>
 
 <!-- style switcher -->
 <script src="js/style-switcher/jquery-1.js"></script>
