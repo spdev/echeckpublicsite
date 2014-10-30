@@ -7,12 +7,12 @@
 	float:left;
 	display:block;
 	/*width:100%;  */
-    width: 250px;
-	height:97px;
+    /*width: 250px;*/
+	/*height:97px;*/
 	text-indent:-999em;
     margin-bottom: -6px;
     margin-top: 5px;
-	background:url(../images/logo_2.png) no-repeat 0px -8px;
+	/*background:url(../images/logo_2.png) no-repeat 0px -8px;*/
 }
 .logo_main {
 	float: left;
@@ -21,6 +21,13 @@
 
 a.t{
     cursor: default;
+}
+
+#echeck_logo{
+    float: left;
+    position: relative;
+    z-index: 8002;
+    background: url(../images/logo_2.png) no-repeat;
 }
 
 
@@ -92,8 +99,9 @@ a.t{
 /*------------------------------------------------------*/
 
 .menu_main {
-	float: left;
+	float: right;
 	width: 80%;
+    padding-top: 12px;
 }
 
 #access .menu {

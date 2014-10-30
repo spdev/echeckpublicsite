@@ -145,7 +145,7 @@ ul.post_meta_links {
 }
 
 .logo_main {
-	width: 25%;
+    width: 75%;
 }
 
 .menu_main {
@@ -482,6 +482,7 @@ a.show_hide{
 	width: 360px;
 	margin: -35px 45px 10px 0px;
 	float: left;
+    margin-top:auto;
 }
 
 .wrapper_boxed {
@@ -556,10 +557,20 @@ a.show_hide{
 	margin-bottom: 0 !important;
 }
 
-#trueHeader #logo{
-	margin-top: 18px;
-	margin-bottom: 10px;
-	background:url(../images/logo.png) no-repeat center top;
+/*#trueHeader #logo
+{*/
+	/*margin-top: 18px;*/
+	/*margin-bottom: 10px;*/
+	/*background:url(../images/logo.png) no-repeat center top;*/
+/*}*/
+
+
+#echeck_logo{
+    /*float: left;*/
+    /*position: relative;*/
+    /*background: url(../images/logo_2.png) no-repeat;*/
+    width: 0px !important;
+    height: 0px !important;
 }
 
 .logo_main {
@@ -1059,7 +1070,8 @@ ul.home_fresh_works {
 	color: #333639;
 	width: 220px;
 	margin: -35px 43px 10px 0px;
-	float: left;
+    float: left;
+    margin-top:auto;
 }
 
 .wrapper_boxed {
@@ -1135,9 +1147,17 @@ ul.home_fresh_works {
 }
 
 #trueHeader #logo{
-	margin-top: 13px;
-	margin-bottom: 13px;
-	background:url(../images/logo.png) no-repeat center top;
+	/*margin-top: 13px;*/
+	/*margin-bottom: 13px;*/
+	/*background:url(../images/logo_2.png) no-repeat center top !important;*/
+}
+
+#echeck_logo{
+    /*float: left;*/
+    /*position: relative;*/
+    /*background: url(../images/logo_2.png) no-repeat;*/
+    width: 0px !important;
+    height: 0px !important;
 }
 
 .logo_main {
