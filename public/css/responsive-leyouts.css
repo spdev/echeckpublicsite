@@ -562,6 +562,7 @@ a.show_hide{
     margin-left: 20%;
     margin-top: 6%;
     background: url(../images/logo.png) no-repeat center !important;
+    z-index: 7000 !important;
 }
 
 .logo_main {
@@ -1147,6 +1148,7 @@ ul.home_fresh_works {
         margin-left: 10%;
         margin-top: 6%;
         background: url(../images/logo.png) no-repeat center !important;
+        z-index: 7000 !important;
 }
 
 

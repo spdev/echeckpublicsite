@@ -1311,7 +1311,7 @@ padding: 0px;
 .tp-simpleresponsive >ul >li{
 	list-stye:none;
 	position:absolute;
-	visibility:hidden;
+	visibility:visible;
 }
 /*  CAPTION SLIDELINK   **/
 .caption.slidelink a div,
