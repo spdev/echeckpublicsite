@@ -1,15 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="9cc4ba94-c03e-4b37-af6d-27368a830643" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/images/sliders/1image.jpg" afterPath="$PROJECT_DIR$/public/images/sliders/1image.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/chn/ch_index.html" afterPath="$PROJECT_DIR$/public/chn/ch_index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/index.html" afterPath="$PROJECT_DIR$/public/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/css/responsive-leyouts.css" afterPath="$PROJECT_DIR$/public/css/responsive-leyouts.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/js/revolutionslider/rs-plugin/css/settings.css" afterPath="$PROJECT_DIR$/public/js/revolutionslider/rs-plugin/css/settings.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/js/revolutionslider/css/slider_main.css" afterPath="$PROJECT_DIR$/public/js/revolutionslider/css/slider_main.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-    </list>
+    <list default="true" id="9cc4ba94-c03e-4b37-af6d-27368a830643" name="Default" comment="" />
     <ignored path="echeckwebsite.iws" />
     <ignored path=".idea/workspace.xml" />
     <option name="TRACKING_ENABLED" value="true" />
