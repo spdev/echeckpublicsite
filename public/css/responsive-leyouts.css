@@ -501,12 +501,12 @@ a.show_hide{
 .content_left {
 	float: left;
 	width: 100%;
-	padding: 40px 0px 0px 0px;
+	padding: 15px 0px 0px 0px;
 }
 .content_fullwidth {
 	float: left;
 	width: 100%;
-	padding: 40px 0px 0px 0px;
+	padding: 15px 0px 0px 0px;
 }
 .right_sidebar {
 	float: left;
@@ -1082,12 +1082,12 @@ ul.home_fresh_works {
 .content_left {
 	float: left;
 	width: 100%;
-	padding: 40px 0px 0px 0px;
+	padding: 15px 0px 0px 0px;
 }
 .content_fullwidth {
 	float: left;
 	width: 100%;
-	padding: 40px 0px 0px 0px;
+	padding: 15px 0px 0px 0px;
 }
 .right_sidebar {
 	float: left;
